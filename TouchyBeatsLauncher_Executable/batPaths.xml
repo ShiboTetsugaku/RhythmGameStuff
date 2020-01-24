@@ -1,0 +1,5 @@
+<Games>
+	<beatstream>C:\path\to\beatstream\batfile.bat</beatstream>
+	<crossbeats>C:\path\to\cxb\executable.exe</crossbeats>
+	<nostalgia>C:\path\to\nost\bat.bat</nostalgia>
+</Games>
